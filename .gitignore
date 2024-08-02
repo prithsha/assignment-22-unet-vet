@@ -1,3 +1,5 @@
 annotations
 images
 *.tar.gz
+cifar-10-batches-py
+lightning_logs
