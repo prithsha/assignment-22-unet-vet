@@ -10,6 +10,7 @@ __pycache__
 *.pkl
 *.pth
 *.pt
+*.ckpt
 *.pth.tar
 *.pth.tar.gz
 *.pth.tar.zip
