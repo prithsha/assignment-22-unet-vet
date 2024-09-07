@@ -4,3 +4,15 @@ images
 cifar-10-batches-py
 lightning_logs
 data
+
+__pycache__ 
+*.pyc
+*.pkl
+*.pth
+*.pt
+*.pth.tar
+*.pth.tar.gz
+*.pth.tar.zip
+*.pth.tar.bz2
+*.pth.tar.xz
+*.pth.tar.lzma
